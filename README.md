@@ -1,4 +1,4 @@
-# Poker simulator
+# Poker Project
 A small python project with a simple GUI to calculate the winning odds in Hold'em games. In this poker style each player
 is given 2 cards and 5 are put onto the table. Players try to build the best 5 card hand possible with their cards 
 plus the table ones.
